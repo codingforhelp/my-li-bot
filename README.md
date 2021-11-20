@@ -25,4 +25,5 @@ Engine communication code taken from https://github.com/ShailChoksi/lichess-bot 
 - Once it has been deployed, go to `Resources` tab on heroku and enable `worker (bash startbot.sh)` dynos. (Do note that if you don't see any dynos in the `Resources` tab, then you must wait for about 5 minutes and then refresh your heroku page.)
 
 You're now connected to lichess and awaiting challenges! Your bot is up and ready!
+           ### ENJOY :)
 
