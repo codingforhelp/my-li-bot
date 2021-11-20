@@ -2,17 +2,22 @@
 
 Engine communication code taken from https://github.com/ShailChoksi/lichess-bot by [ShailChoksi](https://github.com/ShailChoksi)
 
-### Chess Engine
+### Chess Engine Code
 
-- [Stockfish Multi Variant (dev)](https://github.com/ddugovic/Stockfish)
+- [Stockfish Multi Variant Srotckfish](https://github.com/ddugovic/Stockfish)
+- 
+
+
+### Chess Engine 
+
+-(https://github.com/ddugovic/Stockfish/releases/download/variant_sf_10/stockfish-windows-x86_64-bmi2.exe)
+
+
 
 ### Heroku Buildpack
 
 - [`heroku/python`](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-python)
 
-### Heroku Stack
-
-- [`heroku-20`](https://devcenter.heroku.com/articles/heroku-20-stack) (allowing a maximum hash size of 512 mb)
 
 ### How to Use
 
