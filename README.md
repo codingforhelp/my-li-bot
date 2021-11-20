@@ -5,12 +5,11 @@ Engine communication code taken from https://github.com/ShailChoksi/lichess-bot 
 ### Chess Engine Code
 
 - [Stockfish Multi Variant Srotckfish](https://github.com/ddugovic/Stockfish)
-- 
 
 
 ### Chess Engine 
 
--(https://github.com/ddugovic/Stockfish/releases/download/variant_sf_10/stockfish-windows-x86_64-bmi2.exe)
+- [stockfish.exe](https://github.com/ddugovic/Stockfish/releases/download/variant_sf_10/stockfish-windows-x86_64-bmi2.exe)
 
 
 
